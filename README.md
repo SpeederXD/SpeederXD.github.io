@@ -1,5 +1,5 @@
 # SpeederXD.github.io
-Many different mods AND modpacks will be posted here. Revisit to stay updated!. My [__YT CHANAL__](https://www.youtube.com/@speederxd7039)
+Many different mods AND modpacks will be posted here. Revisit to stay updated!. My [__YT CHANAL!__](https://www.youtube.com/@speederxd7039)
 
 ModPacks⬇️
 
