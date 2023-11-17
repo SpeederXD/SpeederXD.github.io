@@ -7,9 +7,12 @@ ModPacks⬇️
 
 2.Pack Download: [VN 0.2](https://github.com/SpeederXD/SpeederXD.github.io/raw/main/VN%201.20.2%20v0.2-0.2.zip)
 
-ModApps⬇️
+ModApps&Sits⬇️
 
 Download [__modrinth app__](https://modrinth.com/app)
 
 Download [__CurseForge app__](https://www.curseforge.com/download/app)
 
+Visit [__modrinth__](https://modrinth.com)
+
+Visit [__CurseForge__](https://www.curseforge.com)
