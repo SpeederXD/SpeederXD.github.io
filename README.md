@@ -20,4 +20,4 @@ Visit [__CurseForge__](https://www.curseforge.com)
 
 ⬇️<span style="color:red; font-weight:bold;">ATTENTION</span>⬇️
 
-<span style="color:red">this is a work in progress site!. if you are using any of my custom mods or modpacks in a video or showcase please link this site. all mods and modpacks will eventually come to CurseForge and Modrinth</span>
+<span style="color:red">this is a work in progress site!. if you are using any of my custom mods or modpacks in a video or showcase please link this site. all mods and modpacks will eventually come to CurseForge and Modrinth.</span>
