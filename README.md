@@ -19,3 +19,5 @@ Visit [__modrinth__](https://modrinth.com)
 Visit [__CurseForge__](https://www.curseforge.com)
 
 ⬇️<span style="color:red; font-weight:bold;">ATTENTION</span>⬇️
+
+<span style="color:red">if you are using one of my costume mods or modpacks in a video or show case please link this site</span>
