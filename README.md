@@ -19,4 +19,4 @@ Visit [__modrinth__](https://modrinth.com)
 Visit [__CurseForge__](https://www.curseforge.com)
 
 ⬇️<span
-style="color:blue">ATTENTION</span>⬇️
+style="color:red">ATTENTION</span>⬇️
