@@ -12,3 +12,5 @@ ModApps⬇️
 Download [__modrinth app__](https://modrinth.com/app)
 
 Download [__CurseForge app__](https://www.curseforge.com/download/app)
+
+[__LOL__](https://rroll.to/afKHqY)
