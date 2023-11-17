@@ -11,6 +11,7 @@ __Check Out Visit My [__YT CHANEL!__](https://www.youtube.com/@speederxd7039) An
 ⬇️**ModApps&Sits**⬇️
 
 Download [__modrinth app__](https://modrinth.com/app)
+[Click me](#){: .btn}
 
 Download [__CurseForge app__](https://www.curseforge.com/download/app)
 
