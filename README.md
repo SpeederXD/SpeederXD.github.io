@@ -9,7 +9,7 @@ __Check Out Visit My [__YT CHANEL!__](https://www.youtube.com/@speederxd7039) An
 </head>
 <body>
 
-    <div id="copyText" style="cursor: pointer;">SpeedGenzs.minehut.gg</div>
+    <div id="copyText" style="cursor: pointer;">__SpeedGenzs.minehut.gg__</div>
 
     <script>
         document.getElementById('copyText').addEventListener('click', function() {
