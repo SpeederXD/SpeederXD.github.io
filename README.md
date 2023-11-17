@@ -1,6 +1,6 @@
 # SpeederXD.github.io
 Many different mods AND modpacks will be posted here. Revisit to stay updated!.
-Check Out Visit My [__YT CHANEL!__](https://www.youtube.com/@speederxd7039) And Visit My WIP Java&Bedrock Server! ip=SpeedGenzs.minehut.gg
+Check Out Visit My [__YT CHANEL!__](https://www.youtube.com/@speederxd7039) And Visit My WIP Java&Bedrock Server! the ip is SpeedGenzs.minehut.gg
 
 ModPacks⬇️                                                                                                                       
 
