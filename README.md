@@ -1,6 +1,6 @@
 # SpeederXD.github.io
 __Many different mods AND modpacks will be posted here. Revisit to stay updated!.__
-__Explorer my YouTube channel and drop by my work-in-progress Java & Bedrock server with the IP: SpeedGenzs.minehut.gg. We're currently looking for dedicated staff members.__
+__Explorer my [YouTube channel](https://m.youtube.com/@speederxd7039) and drop by my work-in-progress Java & Bedrock server with the IP: SpeedGenzs.minehut.gg. We're currently looking for dedicated staff members.__
 
 ⬇️**ModPacks**⬇️                                                                          
 
