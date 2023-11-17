@@ -17,3 +17,6 @@ Download [__CurseForge app__](https://www.curseforge.com/download/app)
 Visit [__modrinth__](https://modrinth.com)
 
 Visit [__CurseForge__](https://www.curseforge.com)
+
+⬇️<span
+style="color:blue">ATTENTION</span>⬇️
