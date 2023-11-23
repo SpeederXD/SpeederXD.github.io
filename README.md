@@ -22,5 +22,4 @@ Visit [__CurseForge__](https://www.curseforge.com)
 
 ⬇️<span style="color:red; font-weight:bold;">ATTENTION</span>⬇️
 
-<span style="color:red">This is a evolving site! If you feature any of my custom mods or modpacks in a video or showcase, kindly link back to this site. All mods and modpacks will soon be available on CurseForge and Modrinth.</span>
-<span style="color: white; font-weight:bold;">[test](https://www.adobe.com/creativecloud/plans.html?plan=edu&promoid=226KCVLY&mv=other)</span>
+<span style="color:red">This is a evolving site! If you feature any of my custom mods or modpacks in a video or showcase, kindly link back to this site. All mods and modpacks will soon be available on CurseForge and Modrinth.
