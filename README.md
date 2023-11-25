@@ -4,11 +4,13 @@ __Explorer my [YouTube channel](https://m.youtube.com/@speederxd7039) and drop b
 
 ⬇️**ModPacks**⬇️                                                                          
 
-1.20.2 Download: [VN v0.1](https://github.com/SpeederXD/SpeederXD.github.io/raw/main/VN%201.20.2-0.1.zip)
+1.20.2 Download: [VN v0.1.zip](https://github.com/SpeederXD/SpeederXD.github.io/raw/main/VN%201.20.2-0.1.zip)
 
-1.20.2 Download: [VN v0.2](https://github.com/SpeederXD/SpeederXD.github.io/raw/main/VN%201.20.2%20v0.2-0.2.zip)
+1.20.2 Download: [VN v0.2.zip](https://github.com/SpeederXD/SpeederXD.github.io/raw/main/VN%201.20.2%20v0.2-0.2.zip)
 
-1.20.2 Download: [VN v0.3](https://github.com/SpeederXD/SpeederXD.github.io/raw/main/VN%201.20.2-0.3.zip)
+1.20.2 Download: [VN v0.3.zip](https://github.com/SpeederXD/SpeederXD.github.io/raw/main/VN%201.20.2-0.3.zip)
+
+The mods i use 1.20.2 Download: [My mods]()
 
 ⬇️**ModApps&Sits**⬇️
 
