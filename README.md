@@ -10,7 +10,7 @@ __Explorer my [YouTube channel](https://m.youtube.com/@speederxd7039) and drop b
 
 1.20.2 Download: [VN v0.3.zip](https://github.com/SpeederXD/SpeederXD.github.io/raw/main/VN%201.20.2-0.3.zip)
 
-The mods i use 1.20.2 Download: [My mods.mrpack](https://drive.google.com/file/d/1ULIWcrbZuU0hWkPO5Srb1zqqH66NChbi/view?usp=drive_link)
+The mods i use 1.20.2 Download: [My mods.mrpack](https://drive.google.com/file/d/1ULIWcrbZuU0hWkPO5Srb1zqqH66NChbi/view?usp=drive_link) __NOT A VIRUS__
 
 ⬇️**ModApps&Sits**⬇️
 
