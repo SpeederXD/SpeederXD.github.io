@@ -1,6 +1,6 @@
 # SpeederXD.github.io
 __Many different mods AND modpacks will be posted here. Revisit to stay updated!.__
-__Explorer my [YouTube channel](https://m.youtube.com/@speederxd7039) and drop by my work-in-progress Java server with the IP: SpeedGenzs.minehut.gg.__
+__Explorer my [YouTube channel](https://m.youtube.com/@speederxd7039) and drop by my work-in-progress Java server with the IP: SpeedGenzs.minehut.gg. Note: Server IP may undergo changes.__
 
 ⬇️**ModPacks**⬇️                                                                          
 
