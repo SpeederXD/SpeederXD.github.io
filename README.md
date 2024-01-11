@@ -2,7 +2,7 @@
 __Many different mods AND modpacks will be posted here. Revisit to stay updated!.__
 __Explorer my [YouTube channel](https://m.youtube.com/@speederxd7039) and drop by my work-in-progress Java server with the IP: SpeedGenzs.minehut.gg. Note: Server IP may undergo changes.__
 
-⬇️[**ModPacks**](https://moddermore.net/list/f7ukvxcGt7Zv)⬇️                                                                          
+⬇️[**ModPacks**](https://moddermore.net/lists)⬇️                                                                          
 
 Download MrPack: [My Base Mods.MrPack](https://www.mediafire.com/file/jeb49fbs1hp29pd/My_Base_Mods_1.0.0.mrpack/file)
 
