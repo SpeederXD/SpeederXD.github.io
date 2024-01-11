@@ -4,7 +4,9 @@ __Explorer my [YouTube channel](https://m.youtube.com/@speederxd7039) and drop b
 
 ⬇️**ModPacks**⬇️                                                                          
 
-Download [My Base Mods.MrPack](https://www.mediafire.com/file/jeb49fbs1hp29pd/My_Base_Mods_1.0.0.mrpack/file)
+Download MrPack [My Base Mods.MrPack](https://www.mediafire.com/file/jeb49fbs1hp29pd/My_Base_Mods_1.0.0.mrpack/file)
+
+Download ZIP [My Base Mods.ZIP](https://www.mediafire.com/file/jbhy58e72xsnbx2/My_Base_Mods-1.0.0.zip/file)
 
 ⬇️**ModApps&Sits**⬇️
 
